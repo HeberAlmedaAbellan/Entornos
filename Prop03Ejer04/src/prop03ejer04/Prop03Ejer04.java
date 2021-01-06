@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author heber y entornos
+ * @author heber y entornos, segundo commit
  */
 public class Prop03Ejer04 {
 
